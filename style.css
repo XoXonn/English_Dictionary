@@ -193,5 +193,6 @@ button {
 
 .error{
     color: var(--errormsg);
+    margin-top: 30px;
 }
 
